@@ -49,7 +49,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a very ambitious full stack developer looking for a role in an established IT company with the opportunity to work with the latest technologies on challenging and diverse projects.
+        I'm currently working as a DevOps Engineer Intern, dedicated to honing my skills and aspiring to become a highly professional and accomplished DevOps Engineer.
         <br />
         I'm quiet confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
         <br />

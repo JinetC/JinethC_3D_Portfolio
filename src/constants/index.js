@@ -30,6 +30,8 @@ import bankapp from '../assets/image/bankapp.png';
 
 import rrd from '../assets/company/rrd.png';
 
+import randoli from '../assets/company/randoli_logo.png'
+
 import medical from '../assets/company/medical.png';
 
 import manori from '../assets/image/manori.jpg';
@@ -68,7 +70,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Full Stack Developer",
+    title: "DevOps Engineer Intern",
     icon: backend,
   },
   {
@@ -134,6 +136,20 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Software Engineer Intern",
+    //company_name: "Randoli",
+    company_name: "Randoli Inc.",
+    company_name1:"Randoli",
+    icon: randoli,
+    iconBg: "#383E56",
+    date: "October 2023 - Present",
+    points: [
+      "Develop and deploy cloud-native solutions with Kubernetes, Docker, and CI/CD pipelines in a DevOps environment.",
+      "Gain hands-on experience in infrastructure-as-code, coding in Golang, Java, and React, and deploying in Linux environments.",
+      "Build and deploy cloud-native apps using Java, Golang, Node.js, and React, ensuring reliability with tools like Prometheus and Lens.",
+    ],
+  },
+  {
     title: "Document Specialist",
     //company_name: "RRD",
     company_name: "RR Donnelley",
@@ -175,7 +191,7 @@ const experiences = [
     ],
   },
   {
-    title: "Full stack Developer",
+    title: "DevOps Engineer Intern",
     company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
